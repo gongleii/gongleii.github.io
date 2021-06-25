@@ -23,7 +23,7 @@
 ### Education Experience
   <ul>
     <li> 
-      <p>[Sep 2020 - Now]. Master, Hunan University, Changsha, China </p>
+      <p>[Sep 2020 - Now]. Master, National University of Defense Technology, Changsha, China </p>
     </li>
   </ul>
 <ul>
