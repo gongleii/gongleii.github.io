@@ -36,7 +36,7 @@
 ### Publication
   <ul>
     <li> 
-      <p>Lei Gong, Sihang Zhou, Wenxuan Tu, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, (to appear). (CCF Rank A)</p>
+      <p><b>Lei Gong</b>, Sihang Zhou, Wenxuan Tu, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, (to appear). <b>(CCF Rank A)</b></p>
     </li>
   </ul>
 
