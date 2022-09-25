@@ -12,7 +12,7 @@
       <p gongleii.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
       <p>Email: glnudt@163.com</p>
       <p>Address: Sanyi Road, Kaifu District, Changsha, Hunan, China</p>
-      <p>[<a href="https://github.com/gongleii">Github</a>]</p>
+      <p>[<a href="https://gongleii.github.io/">Github</a>]</p>
       
     </td>
  </tr>
